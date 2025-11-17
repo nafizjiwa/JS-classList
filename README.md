@@ -5,7 +5,7 @@
 classList is a built-in property of DOM elements that lets you add, remove, toggle, and check CSS classes dynamically.
 
 Common Methods
-|  |  | 
+|---- |----| 
 | element.classList.add("x") | "x" | 
 | element.classList.remove("x") | "x" | 
 | element.classList.toggle("x") | "x" | 
